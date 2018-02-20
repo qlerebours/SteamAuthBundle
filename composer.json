@@ -1,5 +1,5 @@
 {
-    "name": "sirwaddles/steamauth",
+    "name": "qlerebours/steamauth",
     "description": "Steam Authentication for Symfony",
     "keywords": ["Steam", "User management"],
     "license": "MIT",
